@@ -11,7 +11,6 @@ Course: [Designing and Implementing a Microsoft Azure AI Solution](https://learn
 4. Implement Knowledge Mining with Azure AI Search
 5. Develop Solutions with Azure AI Document Intelligence
 6. Develop GenAI Solutions with Azure OpenAI Service
-develop_genai_solutions_with_azure_openai_service
 
 
 
