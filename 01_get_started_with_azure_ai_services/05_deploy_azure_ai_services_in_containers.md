@@ -42,6 +42,8 @@ Each container provides a subset of Azure AI services functionality. For example
 
 For a full list of currently available Azure AI services container images, and specific notes for each one, see [Azure AI services container image tags and release notes](https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container-support#containers-in-azure-ai-services).
 
+More info: https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container-support
+
 ### Azure AI services container configuration
 
 When you deploy an Azure AI services container image to a host, you must specify three settings.

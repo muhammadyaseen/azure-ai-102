@@ -51,3 +51,8 @@ With network restrictions enabled, a client trying to connect from an IP address
 
 ## Unit 04: Exercise - Manage Azure AI Services Security
 
+A better approach when developing applications on Azure is to store the key securely in Azure Key Vault, and provide access to the key through a managed identity (in other words, a user account used by the application itself)
+
+To access the secret in the key vault, your application must use a service principal that has access to the secret. You'll use the Azure command line interface (CLI) to create the service principal, find its object ID, and grant access to the secret in Azure Vault.
+
+https://microsoftlearning.github.io/mslearn-ai-services/Instructions/Exercises/02-ai-services-security.html
